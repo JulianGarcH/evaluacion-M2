@@ -1,0 +1,27 @@
+/* Estilos para la etiqueta ul */
+ul {
+    border: 2px solid #e91414; /* Añade un borde de 2px sólido con color #333 */
+    position: relative; /* Cambia la posición a relativa */
+    z-index: 1; /* Establece el índice Z en 1 */
+    cursor: pointer; /* Cambia el cursor a tipo puntero */
+}
+
+/* Estilos para la etiqueta li */
+li {
+    border: 1px solid #2916da; /* Añade un borde de 1px sólido con color #555 */
+    cursor: pointer; /* Cambia el cursor a tipo puntero */
+}
+
+/* Estilos para la etiqueta select */
+select {
+    border: 1px solid #777; /* Añade un borde de 1px sólido con color #777 */
+    position: relative; /* Cambia la posición a relativa */
+    z-index: 2; /* Establece el índice Z en 2 */
+    cursor: pointer; /* Cambia el cursor a tipo puntero */
+}
+
+/* Estilos para la etiqueta option */
+option {
+    border: 1px solid #999; /* Añade un borde de 1px sólido con color #999 */
+    cursor: pointer; /* Cambia el cursor a tipo puntero */
+}
